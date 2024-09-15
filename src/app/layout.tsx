@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Simple Calculator",
-  description: "Simple",
+  description: "Simple Calculator Made By HassanRJ",
 };
 
 export default function RootLayout({
